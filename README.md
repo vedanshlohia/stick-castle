@@ -1,2 +1,1 @@
-# stick-castle
-project c 23
+# Box Class
